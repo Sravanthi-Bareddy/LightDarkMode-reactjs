@@ -1,0 +1,29 @@
+.bg-container {
+  background-color: #ffffff;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.mode-change-container {
+  background-color: #000000;
+  height: 30%;
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.mode-change-heading {
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: 600;
+}
+.custom-btn {
+  background-color: #ffffff;
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: none;
+  border-radius: 2px;
+}
